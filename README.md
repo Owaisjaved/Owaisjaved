@@ -26,6 +26,6 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=owaisjaved&show_icons=true&locale=en" alt="owaisjaved" /></p>
 </div>
 <div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=owaisjaved&" alt="owaisjaved" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=owaisjaved&" alt="owaisjaved" /></p>
 </div>
 </div>
