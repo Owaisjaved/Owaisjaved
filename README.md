@@ -22,7 +22,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=owaisjaved&show_icons=true&locale=en" alt="owaisjaved" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=owaisjaved&show_icons=true&locale=en&layout=compact" alt="owaisjaved" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=owaisjaved&show_icons=true&locale=en&layout=compact" alt="owaisjaved" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=owaisjaved&" alt="owaisjaved" /></p>
 <div><h3>Note</h3><h4>I have mostly worked on the organization's private repositories, which is why there are fewer commits.</h4></div>
