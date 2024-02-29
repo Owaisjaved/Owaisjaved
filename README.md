@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Owais Javed</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 <img align="right" alt="programming GIF" width="400" src="[https://giphy.com/embed/gh0RRgkTXedvF0pDc0](https://giphy.com/gifs/city-marketing-public-gh0RRgkTXedvF0pDc0)" />
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owaisjaved&label=Profile%20views&color=0e75b6&style=flat" alt="owaisjaved" /> </p>
 
 - 🌱 I’m currently learning **AWS**
