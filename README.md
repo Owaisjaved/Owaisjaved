@@ -1,8 +1,8 @@
 ![MasterHead](https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif)
 <h1 align="center">Hi 👋, I'm Owais Javed</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
-<!-- <img align="right" alt="programming GIF" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" /> -->
-<iframe src="https://giphy.com/embed/gh0RRgkTXedvF0pDc0" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/city-marketing-public-gh0RRgkTXedvF0pDc0">via GIPHY</a></p>
+<img align="right" alt="programming GIF" width="400" src="https://giphy.com/embed/gh0RRgkTXedvF0pDc0" />
+<!-- <iframe src="https://giphy.com/embed/gh0RRgkTXedvF0pDc0" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/city-marketing-public-gh0RRgkTXedvF0pDc0">via GIPHY</a></p> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owaisjaved&label=Profile%20views&color=0e75b6&style=flat" alt="owaisjaved" /> </p>
 
 - 🌱 I’m currently learning **AWS**
