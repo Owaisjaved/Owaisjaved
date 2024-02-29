@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/owais-javed-1477851a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="owaisjaved" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/owais-muhammad05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="owaisjaved" height="30" width="40" /></a>
 <a href="https://instagram.com/owais.javed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="owais.javed" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
