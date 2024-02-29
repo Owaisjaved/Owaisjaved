@@ -1,8 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif)
 <h1 align="center">Hi 👋, I'm Owais Javed</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
-<img align="right" alt="programming GIF" width="400" src="[https://giphy.com/embed/gh0RRgkTXedvF0pDc0](https://giphy.com/gifs/city-marketing-public-gh0RRgkTXedvF0pDc0)" />
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanNlMWN2dXczOTBhcDJnc29iYXFoNnUya2FqYXI4bWh6Z3hlZXYxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gh0RRgkTXedvF0pDc0/giphy.gif" width="40" height="40" />
+<img align="right" alt="programming GIF" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanNlMWN2dXczOTBhcDJnc29iYXFoNnUya2FqYXI4bWh6Z3hlZXYxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gh0RRgkTXedvF0pDc0/giphy.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owaisjaved&label=Profile%20views&color=0e75b6&style=flat" alt="owaisjaved" /> </p>
 
 - 🌱 I’m currently learning **AWS**
